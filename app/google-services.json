@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447103536865",
+    "project_id": "eloop-e4c22",
+    "storage_bucket": "eloop-e4c22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447103536865:android:50b307bf4cff1afcc931a0",
+        "android_client_info": {
+          "package_name": "com.eloop.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq02aOQwEQ3kxJVQMaEphGSZogD3_W3sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

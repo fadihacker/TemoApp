@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">E-Loop</string>
+    <!-- ChatBot General -->
+    <string name="chatbot_title">EcoBot Assistant</string>
+    <string name="chatbot_input_placeholder">Ask your question here…</string>
+    <string name="chatbot_send_button">Send</string>
+    <string name="chatbot_initial_msg">"Hello! 👋 I\'m EcoBot, your personal assistant for electronic device recycling ♻️\n\nChoose an option below or type your question!"</string>
+    
+    <!-- Quick Replies -->
+    <string name="quick_reply_device_price">💰 Device Price</string>
+    <string name="quick_reply_how_to_recycle">♻️ How to recycle</string>
+    <string name="quick_reply_nearest_center">📍 Nearest center</string>
+    <string name="quick_reply_points_system">⭐ Points system</string>
+    <string name="quick_reply_samsung_price">📱 Samsung Price</string>
+    <string name="quick_reply_laptop_price">💻 Laptop Price</string>
+    <string name="quick_reply_iphone_15_price">📱 iPhone 15 Price</string>
+    <string name="quick_reply_iphone_14_price">📱 iPhone 14 Price</string>
+    <string name="quick_reply_s24_price">📱 S24 Price</string>
+    <string name="quick_reply_s23_price">📱 S23 Price</string>
+    <string name="quick_reply_iphone_price">📱 iPhone Price</string>
+    <string name="quick_reply_mobile_price">📱 Mobile Price</string>
+    <string name="quick_reply_tablet_price">📟 Tablet Price</string>
+    <string name="quick_reply_pickup_service">🚚 Pickup Service</string>
+    <string name="quick_reply_bye">👋 Bye</string>
+
+    <!-- Bot Responses -->
+    <string name="bot_hello_detailed">"Hello! 👋 I\'m EcoBot, your personal assistant for electronic device recycling ♻️\n\nI can help you with:\n• 💰 Device valuations &amp; prices\n• ♻️ Recycling information\n• 📍 Nearest collection centers\n• ⭐ Points and rewards system\n\nChoose an option below or type your question!"</string>
+    
+    <string name="iphone_15_price" formatted="false">"📱 iPhone 15\n\n💰 New Price: ~35,000 EGP\n♻️ Used Price: ~24,500 EGP\n🌿 ELoop Value: ~4,900 EGP\n⭐ ELoop Points: 2,450 points\n\nPrice varies based on condition:\n✨ Perfect: Full price\n📝 Minor scratches: -10%\n💔 Broken screen: -40%\n❌ Dead/Not working: -70%\n\n💡 Tip: Even broken devices have recycling value!"</string>
+    
+    <string name="iphone_14_price">"📱 iPhone 14\n\n💰 New Price: ~25,000 EGP\n♻️ Used Price: ~17,500 EGP\n🌿 ELoop Value: ~3,500 EGP\n⭐ ELoop Points: 1,750 points\n\n💡 Tip: Trade in your old device to get a discount on a new one!"</string>
+    
+    <string name="iphone_13_price">"📱 iPhone 13\n\n💰 New Price: ~18,000 EGP\n♻️ Used Price: ~12,600 EGP\n🌿 ELoop Value: ~2,520 EGP\n⭐ ELoop Points: 1,260 points\n\n💡 Tip: Every 100 EGP = 50 ELoop points!"</string>
+    
+    <string name="samsung_s24_price">"📱 Samsung Galaxy S24\n\n💰 New Price: ~30,000 EGP\n♻️ Used Price: ~21,000 EGP\n🌿 ELoop Value: ~4,200 EGP\n⭐ ELoop Points: 2,100 points\n\n💡 Tip: Your old device might be worth more than you think!"</string>
+    
+    <string name="samsung_s23_price">"📱 Samsung Galaxy S23\n\n💰 New Price: ~22,000 EGP\n♻️ Used Price: ~15,400 EGP\n🌿 ELoop Value: ~3,080 EGP\n⭐ ELoop Points: 1,540 points"</string>
+    
+    <string name="samsung_general_price" formatted="false">"📱 Samsung Galaxy Prices:\n\n• Galaxy S24: ~30,000 EGP (new)\n• Galaxy S23: ~22,000 EGP (new)\n• Galaxy S22: ~15,000 EGP (new)\n• Galaxy S21: ~11,000 EGP (new)\n• A-Series: 5,000–8,000 EGP (new)\n\n🌿 ELoop Value = 20% of used market price\n⭐ Every 100 EGP = 50 points\n\n💡 Tell me a specific model for a detailed valuation!"</string>
+    
+    <string name="mobile_general_price" formatted="false">"📱 Mobile Phone Categories:\n\n🍎 iPhone:\n• iPhone 15: ~35,000 EGP\n• iPhone 14: ~25,000 EGP\n• iPhone 13: ~18,000 EGP\n• iPhone 12: ~13,000 EGP\n\n📱 Samsung:\n• Galaxy S24: ~30,000 EGP\n• Galaxy S23: ~22,000 EGP\n• Galaxy S22: ~15,000 EGP\n\n🌿 ELoop Value = 20% of used market price\n\n💡 Tell me your exact device name for a full valuation!"</string>
+    
+    <string name="laptop_general_price" formatted="false">"💻 Laptop Prices:\n\n🍎 MacBook:\n• MacBook Air M2: ~30,000 EGP\n• MacBook Air M1: ~20,000 EGP\n\n💻 Windows:\n• Dell XPS / HP Spectre: 18,000–25,000 EGP\n• Mid-range laptops: 8,000–15,000 EGP\n\n🌿 ELoop Value = 20% of used market price\n⭐ Old laptops = lots of points!\n\n💡 Tip: Even broken laptops have great value in recycling due to raw materials!"</string>
+    
+    <string name="tablet_general_price" formatted="false">"📟 Tablet Prices:\n\n• iPad Pro: ~25,000 EGP\n• iPad Air: ~12,000 EGP\n• Samsung Tab S: ~15,000 EGP\n\n🌿 ELoop Value = 20% of used market price\n\n💡 Tip: Turn your old tablet into rewards instead of keeping it in a drawer!"</string>
+    
+    <string name="camera_general_price" formatted="false">"📸 Camera Prices:\n\n• DSLR/Mirrorless: 10,000–40,000 EGP\n• Compact Cameras: 3,000–8,000 EGP\n\n🌿 ELoop Value = 20% of used market price\n\n💡 Tip: Electronics recycling reduces toxic waste in landfills!"</string>
+    
+    <string name="general_price_inquiry">"💰 Valuations in ELoop:\n\nWe evaluate your devices based on:\n• 📱 Device brand and model\n• ✨ Physical condition\n• 📊 Current market data\n\nAccepted device types:\n• 📱 Mobiles\n• 💻 Laptops\n• 📟 Tablets\n• 📸 Cameras\n• 🖨️ Printers\n• 🎮 Gaming Consoles\n\n💡 Go ahead and tell me your device name to get a price estimate!"</string>
+    
+    <string name="recycling_info">"♻️ How to recycle with ELoop:\n\n1️⃣ Open the app and select your device type\n2️⃣ Scan your device or enter details manually\n3️⃣ Get an instant AI valuation\n4️⃣ Choose: Sell or drop-off at a center\n5️⃣ Get your money + ELoop Points! 🎉\n\n🌍 Every recycled device protects our environment!\n\n💡 Tip: Always wipe your personal data before handling over any device!"</string>
+    
+    <string name="points_rewards_info">"⭐ ELoop Points System:\n\n📊 How to earn points:\n• ♻️ Recycle a device = points based on value\n• 📝 Every 100 EGP recycled = 50 points\n• 📸 Scan a device = 10 points\n• 📖 Read an eco-article = 5 points\n• 👥 Invite a friend = 100 points\n\n🎁 Redeem points for:\n• Discounts on new electronics\n• Shopping vouchers from our partners\n• Donations to environmental charities\n\n💡 Tip: Check the Leaderboard and compete with friends!"</string>
+    
+    <string name="pickup_info">"🚚 ELoop Pickup Service:\n\n⏰ Pickup Schedule:\n• Requests are fulfilled within 24–48 hours\n• Available Saturday to Thursday\n• From 9:00 AM to 6:00 PM\n\n📋 Steps:\n1️⃣ Register your device in the app\n2️⃣ Select a convenient time and add your address\n3️⃣ Our rep will be at your doorstep!\n\n💡 Tip: The pickup service is completely free! 🎉"</string>
+    
+    <string name="location_info">"📍 ELoop Collection Centers:\n\nWe have centers in multiple locations:\n• 🏪 Cairo - Nasr City\n• 🏪 Cairo - Maadi\n• 🏪 Giza - Dokki\n• 🏪 Alexandria - Smouha\n\n🗺️ Open the \"Find\" page in the app to see the nearest center on the interactive map!\n\n💡 Tip: You can also request our free pickup service! 🚚"</string>
+    
+    <string name="data_privacy_info">"🔒 Data Security in ELoop:\n\n✅ Full end-to-end encryption\n✅ We never share data with third parties\n✅ We follow international data protection laws\n✅ Protected by state-of-the-art security systems\n\n📱 Before dropping off your device:\n• Wipe all personal data\n• Perform a Factory Reset\n• Remove SIM card and memory cards\n\n💡 Tip: Our engineering team performs an extra certified data wipe before recycling!"</string>
+    
+    <string name="accepted_devices_info">"📋 Accepted Devices in ELoop:\n\n📱 Mobile Phones (iPhone, Samsung, Huawei, etc.)\n💻 Laptops &amp; Computers\n📟 Tablets (iPad, Galaxy Tab, etc.)\n📸 Cameras\n🖨️ Printers\n🎮 Gaming Consoles\n🔌 Electronic Accessories &amp; Chargers\n📺 Monitors &amp; TVs\n\n♻️ Any electronic device - even if it\'s completely dead!\n\n💡 Tip: Use the \'Scan\' feature to identify your device automatically!"</string>
+    
+    <string name="help_info">"🤝 I\'m here to help you with:\n\n💰 Device price valuation\n♻️ Explaining the recycling process\n📍 Finding collection centers\n⭐ Points and Rewards system\n🚚 Home pickup requests\n🔒 Data security measures\n📋 List of accepted devices\n\nFeel free to choose a topic or ask me anything! 😊"</string>
+    
+    <string name="thanks_info">"You\'re very welcome! 😊 I\'m always here if you need any assistance.\n\n🌍 Thank you for contributing to environmental protection with ELoop! Every recycled device makes a difference! 💚"</string>
+    
+    <string name="bye_info">"Goodbye! 👋\n\nRemember: Your old e-waste can be transformed into rewards! ♻️💚\n\nCome back anytime if you need help! 😊"</string>
+    
+    <string name="default_info">"Thank you for your message! 😊\n\nI specialize in electronic device recycling. I can help you with:\n\n• 💰 Device price valuations\n• ♻️ Recycling guides and tips\n• 📍 Nearest collection centers\n• ⭐ Points and rewards system\n• 🚚 Free pickup service\n\nTry asking me about any of these topics! 👆"</string>
+</resources>
